@@ -1,0 +1,25 @@
+{
+  "name": "istanbul-spy",
+  "version": "1.0.0",
+  "description": "spy on istanbul coverage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertleeplummerjr/istanbul-spy.git"
+  },
+  "keywords": [
+    "istanbul",
+    "spy",
+    "transpiling",
+    "compiling"
+  ],
+  "author": "robertleeplummerjr@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertleeplummerjr/istanbul-spy/issues"
+  },
+  "homepage": "https://github.com/robertleeplummerjr/istanbul-spy#readme"
+}
