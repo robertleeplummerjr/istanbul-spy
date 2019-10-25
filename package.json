@@ -1,8 +1,9 @@
 {
   "name": "istanbul-spy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "spy on istanbul coverage",
   "main": "index.js",
+  "files": ["index.js"],
   "scripts": {
     "test": "node test.js"
   },
